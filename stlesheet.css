@@ -16,6 +16,7 @@ nav{
    
 }
 .menubar{
+    display:none;
     height: 40px;
     width: 75px;
     padding-top: -20px;
